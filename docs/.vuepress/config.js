@@ -1,6 +1,6 @@
 module.exports = {
   base: '/',
-  dest: './dist',
+  dest: './docs/.vuepress/dist',
   title: '小两口',
   port: '8100',
   description: '启程',
