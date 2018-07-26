@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TaoXuSheng/mt-blog.git"
+    "url": "git+https://github.com/DingGoldTiger/blog.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TaoXuSheng/mt-blog/issues"
+    "url": "https://github.com/DingGoldTiger/blog.git"
   },
-  "homepage": "https://github.com/TaoXuSheng/mt-blog#readme",
+  "homepage": "https://github.com/DingGoldTiger/blog.git",
   "devDependencies": {
     "gh-pages": "^1.1.0",
     "node-sass": "^4.9.0",
