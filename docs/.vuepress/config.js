@@ -4,6 +4,7 @@ module.exports = {
   title: '小两口',
   port: '8100',
   description: '启程',
+  serviceWorker: true,
   themeConfig: {
     nav: [
       { text: '主页', link: '/' },
@@ -18,14 +19,7 @@ module.exports = {
     ],
     sidebar: {
       '/blog/': [
-        'git',
-        'vue-amap',
-        'js-function',
-        'vuepress-theme',
-        'vuepress',
-        'vue-business-component',
-        'stylus-converter',
-        'json-server'
+        'git'
       ]
     }
   }

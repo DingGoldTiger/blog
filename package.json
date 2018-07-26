@@ -8,8 +8,7 @@
   },
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs",
-    "deploy": "npm run build && gh-pages -d dist"
+    "build": "vuepress build docs"
   },
   "repository": {
     "type": "git",
@@ -22,7 +21,6 @@
   },
   "homepage": "https://github.com/DingGoldTiger/blog.git",
   "devDependencies": {
-    "gh-pages": "^1.1.0",
     "node-sass": "^4.9.0",
     "sass-loader": "^7.0.1",
     "vuepress": "^0.10.0"
