@@ -23,7 +23,7 @@
   "devDependencies": {
     "node-sass": "^4.9.0",
     "sass-loader": "^7.0.1",
-    "vuepress": "^0.10.0"
+    "vuepress": "^1.9.7"
   },
   "dependencies": {
     "element-ui": "^2.3.6",
